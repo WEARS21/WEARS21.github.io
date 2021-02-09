@@ -1,0 +1,161 @@
+full_title: The First International Workshop on Evaluation and Analysis of Recommender Systems in Software Engineering
+short_title: WEARS 2021
+email: juri.dirocco@univaq.it
+description: > # this means to ignore newlines until "baseurl:"
+  HotWeb is a forum bringing together researchers and practitioners interested 
+  in the design, implementation, and evaluation of Internet systems and applications. 
+location: Virtual conference
+date: June 21-23, 2021
+#logo_path: ./assets/images/logo2017.jpg
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/image0.jpg
+    description: San Jose night scene
+    photographer_name: Mike Boening
+    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: San Jose Museum of Art
+    photographer_name: Bryan Nabong
+    photographer_link: https://www.flickr.com/photos/bongarang/
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: San Jose State University
+    photographer_name: David Sawyer
+    photographer_link: https://www.flickr.com/photos/18702768@N04/
+  - id: 3
+    image_path: ./assets/images/slideshow/image3.jpg
+    description: Cathedral Basilica of St. Joseph
+    photographer_name: Patricia Montes Gregory
+    photographer_link: https://www.flickr.com/photos/32159045@N02/
+  - id: 4
+    image_path: ./assets/images/slideshow/image4.jpg
+    description: Winchester Mystery House
+    photographer_name: Pomax
+    photographer_link: https://www.flickr.com/photos/pomax/
+  - id: 5
+    image_path: ./assets/images/slideshow/image5.jpg
+    description: Rose Garden Branch Library
+    photographer_name: John Menard
+    photographer_link: https://www.flickr.com/photos/jmenard48/
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: /cfp.html
+    visible: True
+  - id: 3
+    label: Submission
+    path: /submission.html
+    visible: True
+ # - id: 4
+ #   label: Programs
+ #   path: /program.html
+ #   visible: True
+ # - id: 5
+ #   label: Venue
+ #   path: /venue.html
+ #   visible: True
+#  - id: 6
+#    label: Registration
+#    path: /registration.html
+#    visible: True
+deadlines:
+  - date: 2021-03-26
+    timezone: 9PM PDT
+    text: Submission deadline (extended)
+    pass_due: False
+  - date: 2021-04-19
+    text: Notification of acceptance
+    pass_due: False
+  - date: TBA
+    text: Camera-ready copy due
+    pass_due: False
+  - date: TBA
+    text: Workshop
+    pass_due: False
+news:
+  - date: 2021-02-09
+    text: Workshop has been successfully held
+#  - date: 2017-05-12
+#    text: Submission site online
+#  - date: 2017-03-08
+#    text: Website online
+#sponsors:
+#  - name: ACM
+#    logo_path: ./assets/images/sponsors/acm-logo.png
+# - name: IEEE
+#    logo_path: ./assets/images/sponsors/ieee-logo.gif
+social_media:
+  facebook_link: 
+  twitter_link: https://www.twitter.com/
+program_chair:
+  - name: Massimiliano Di Penta
+    org: Università degli Studi del Sannio (Italy)
+    homepage: http://www.ing.unisannio.it/mdipenta/
+  - name: Juri Di Rocco
+    org: Università degli Studi dell’Aquila (Italy)
+    homepage: https://jdirocco.github.io
+  - name: Phuong Than Nguyen
+    org: Università degli Studi dell’Aquila (Italy)
+    homepage:
+steering_committees:
+
+technical_program_committees:
+  - name: Vito Walter
+    org: Anelli (Politecnico di Bari, Italy)
+  - name: Gabriele Bavota
+    org: Università della Svizzera italiana, Switzerland
+  - name: Andrea Capiluppi
+    org: University of Groningen, The Netherlands
+  - name: Pablo Chamoso
+    org: Universidad de Salamanca, Spain
+  - name: Thomas Degueule
+    org: Laboratoire Bordelais de Recherche en Informatique, France)
+  - name: Tommaso Di Noia 
+    org: Politecnico di Bari, Italy
+  - name: Juri Di Rocco
+    org:  Università degli Studi dell’Aquila, Italy
+  - name: Davide Di Ruscio
+    org:  Università degli Studi dell’Aquila, Italy
+  - name: Antonio Ferrara
+    org: Politecnico di Bari, Italy
+  - name: Reid Holmes
+    org: University of British Columbia, Canada
+  - name: Ludovico Iovino
+    org: Gran Sasso Science Institute, Italy
+  - name: Raula Gaikovina
+    org: Kula (Nara Institute of Science and Technology, Japan)
+  - name: Michele Lanza
+    org: Università della Svizzera italiana, Switzerland
+  - name: Collin McMillan
+    org: University of Notre Dame, USA
+  - name: Meiyappan Nagappan
+    org: University of Waterloo, Canada
+  - name: Phuong T. Nguyen
+    org: Università degli Studi dell’Aquila, Italy
+  - name: Alfonso Pierantonio
+    org: Università degli Studi dell’Aquila, Italy
+  - name: Martin Robillard
+    org: McGill University, Canada
+  - name: Alexander Serebrenik
+    org: Eindhoven University of Technology, The Netherlands 
+  - name: Damian A. Tamburri 
+    org: Eindhoven University of Technology, The Netherlands
+  - name: Robert J. Walker
+    org: University of Calgary, Canada
+  - name: Thomas Zimmermann
+    org: Microsoft Research, USA
+webmaster:
+  - name: Shanhe Yi
+    org: College of William and Mary (USA)
+    homepage: http://www.cs.wm.edu/~syi
+
