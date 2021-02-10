@@ -90,8 +90,8 @@ program_chair:
 steering_committees:
 
 technical_program_committees:
-  - name: Vito Walter
-    org: Anelli (Politecnico di Bari, Italy)
+  - name: Vito Walter Anelli
+    org: Politecnico di Bari, Italy
   - name: Gabriele Bavota
     org: Università della Svizzera italiana, Switzerland
   - name: Andrea Capiluppi
