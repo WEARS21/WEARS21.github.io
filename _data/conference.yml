@@ -50,8 +50,8 @@ navbar:
 #    visible: True
 deadlines:
   - date: 2021-03-26
-    timezone: 9PM PDT
-    text: Submission deadline (extended)
+    timezone: 23:59 PM AOE
+    text: Submission deadline
     pass_due: False
   - date: 2021-04-19
     text: Notification of acceptance
@@ -59,12 +59,12 @@ deadlines:
   - date: TBA
     text: Camera-ready copy due
     pass_due: False
-  - date: TBA
+  - date: 2021-06-21
     text: Workshop
     pass_due: False
 news:
   - date: 2021-02-09
-    text: Workshop has been successfully held
+    text: Our workshop proposal has been accepted by EASE 2021
 #  - date: 2017-05-12
 #    text: Submission site online
 #  - date: 2017-03-08
@@ -135,7 +135,7 @@ technical_program_committees:
   - name: Thomas Zimmermann
     org: Microsoft Research, USA
 webmaster:
-  - name: Shanhe Yi
-    org: College of William and Mary (USA)
-    homepage: http://www.cs.wm.edu/~syi
+  - name: Juri Di Rocco
+    org: University of L'Aquika (ITA)
+    homepage: https://jdirocco.github.io/
 
