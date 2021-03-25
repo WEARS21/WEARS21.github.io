@@ -49,7 +49,7 @@ navbar:
 #    path: /registration.html
 #    visible: True
 deadlines:
-  - date: 2021-03-26
+  - date: 2021-04-02
     timezone: 23:59 PM AOE
     text: Submission deadline
     pass_due: False
